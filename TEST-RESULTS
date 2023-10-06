@@ -1,0 +1,5 @@
+Error no1
+4/0 returns Infinity, when it should return Undefined
+Error no2
+(3+5)*8-(92-17)/3 returns ERROR, because the calculator doesn't know how to treat () 
+[(34-23)*8-56]*8 returns ERROR as well
